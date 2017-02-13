@@ -2,7 +2,7 @@
 Homeworks for https://softuni.bg/trainings/1506/data-science-december-2016
 
 
-Course Plan:
+#Course Plan:
 
 0. Course Introduction
 1. Python Crash Course - 1 HW
@@ -17,7 +17,8 @@ Course Plan:
 10. Pracitcal Exam
 ->Exam 26.02.2017
 
-Homeworks:
+
+##Homeworks:
 
 
 #1. Python Crash Course
