@@ -18,22 +18,22 @@ Homeworks for https://softuni.bg/trainings/1506/data-science-december-2016
 ->Exam 26.02.2017
 
 
-##Homeworks:
+#Homeworks:
 
 
-#1. Python Crash Course
+##1. Python Crash Course
 
 
-#2. Mathematical Concepts
+##2. Mathematical Concepts
 
 
-#3. Probability Concepts
+##3. Probability Concepts
 
 
-#4. Statistics
+##4. Statistics
 
 
-#5. Hypothesis Testing
+##5. Hypothesis Testing
 
 
-#7. Data Acquisition and Cleaning 
+##7. Data Acquisition and Cleaning 
